@@ -1,0 +1,8 @@
+npm create vite
+
+//reference link
+https://semaphoreci.com/blog/vite
+
+
+//
+npm run dev
